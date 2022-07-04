@@ -30,3 +30,4 @@ if ( poner1 == "hola" )
 return 0;
 };
 hola
+como estas
